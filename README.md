@@ -13,21 +13,20 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
-
 <p align="center">
-  <a href="#-live-demo">🌐 Live Demo</a>
+  <a href="#-live-demo" style="text-decoration: none;">🌐 Live Demo</a>
   &nbsp;•&nbsp;
-  <a href="#-features">✨ Features</a>
+  <a href="#-features" style="text-decoration: none;">✨ Features</a>
   &nbsp;•&nbsp;
-  <a href="#-screenshots">📸 Screenshots</a>
+  <a href="#-screenshots" style="text-decoration: none;">📸 Screenshots</a>
   &nbsp;•&nbsp;
-  <a href="#-technologies">🛠️ Technologies</a>
+  <a href="#-technologies" style="text-decoration: none;">🛠️ Technologies</a>
   &nbsp;•&nbsp;
-  <a href="#-projects">🚀 Projects</a>
+  <a href="#-projects" style="text-decoration: none;">🚀 Projects</a>
   &nbsp;•&nbsp;
-  <a href="#-about-me">👨‍💻 About Me</a>
+  <a href="#-about-me" style="text-decoration: none;">👨‍💻 About Me</a>
   &nbsp;•&nbsp;
-  <a href="#-contact">📬 Contact</a>
+  <a href="#-contact" style="text-decoration: none;">📬 Contact</a>
 </p>
 
 
