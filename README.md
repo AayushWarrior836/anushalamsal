@@ -1,4 +1,4 @@
-<p align="center"># Aayush Lamsal — Personal Portfolio</p>
+<h1 align="center"> Aayush Lamsal — Personal Portfolio</h1>
 
 
 <p align="center">
