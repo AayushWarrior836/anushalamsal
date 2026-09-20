@@ -1,9 +1,8 @@
-<h1 align="center"> Aayush Lamsal — Personal Portfolio</h1>
-
+<h1 align="center">Aayush Lamsal — Personal Portfolio</h1>
 
 <p align="center">
   <strong>Personal portfolio website of Aayush Lamsal</strong><br>
-  Grade 11 Computer Science Student · Web Developer · Aspiring Software Engineer
+  Web Developer · Aspiring Software Engineer
 </p>
 
 <p align="center">
@@ -19,6 +18,7 @@
   <a href="#-live-demo">Live Demo</a> ·
   <a href="#-features">Features</a> ·
   <a href="#-technologies">Technologies</a> ·
+  <a href="#-projects">Projects</a> ·
   <a href="#-contact">Contact</a>
 </p>
 
@@ -27,9 +27,8 @@
 ## 🌐 Live Demo
 
 🚀 **Visit the portfolio:**
-**[Open Portfolio Website](https://anushalamsal.com.np/)**
 
-> If GitHub Pages is not enabled yet, replace the link above with your actual deployed website URL.
+**[Open Portfolio Website](https://anushalamsal.com.np/)**
 
 ---
 
@@ -37,11 +36,17 @@
 
 ### 🏠 Home
 
+<!-- Add your home screenshot here -->
+
 ### 👨‍💻 About & Skills
+
+<!-- Add your about screenshot here -->
 
 ### 🚀 Projects
 
-> Add your screenshots inside a `screenshots` folder in the repository.
+<!-- Add your projects screenshot here -->
+
+> Add your screenshots inside the `screenshots` folder in the repository.
 
 ---
 
@@ -121,7 +126,7 @@ No build tools or dependencies are required.
 
 ## 👨‍💻 About Me
 
-I'm **Aayush Lamsal**, a Grade 11 Computer Science student from Nepal interested in software development, web development, operating systems, and game development.
+I'm **Aayush Lamsal**, a web developer and aspiring software engineer from Nepal with an interest in software development, web development, operating systems, and game development.
 
 I'm continuously learning new technologies and building projects to improve my programming and development skills.
 
@@ -160,8 +165,7 @@ The portfolio is designed to work across different screen sizes:
 
 ## 📊 Project Status
 
-
-\
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
 
