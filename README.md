@@ -15,12 +15,21 @@
 </p>
 
 <p align="center">
-  <a href="#-live-demo">Live Demo</a> ·
-  <a href="#-features">Features</a> ·
-  <a href="#-technologies">Technologies</a> ·
-  <a href="#-projects">Projects</a> ·
-  <a href="#-contact">Contact</a>
+  <a href="#-live-demo">🌐 Live Demo</a>
+  &nbsp;•&nbsp;
+  <a href="#-features">✨ Features</a>
+  &nbsp;•&nbsp;
+  <a href="#-screenshots">📸 Screenshots</a>
+  &nbsp;•&nbsp;
+  <a href="#-technologies">🛠️ Technologies</a>
+  &nbsp;•&nbsp;
+  <a href="#-projects">🚀 Projects</a>
+  &nbsp;•&nbsp;
+  <a href="#-about-me">👨‍💻 About Me</a>
+  &nbsp;•&nbsp;
+  <a href="#-contact">📬 Contact</a>
 </p>
+
 
 ---
 
