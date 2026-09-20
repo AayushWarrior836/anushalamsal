@@ -26,7 +26,7 @@
 ## 🌐 Live Demo
 
 🚀 **Visit the portfolio:**
-**[Open Portfolio Website](https://aayushwarrior836.github.io/anushalamsal/)**
+**[Open Portfolio Website](https://anushalamsal.com.np/)**
 
 > If GitHub Pages is not enabled yet, replace the link above with your actual deployed website URL.
 
