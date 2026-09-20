@@ -22,8 +22,7 @@ This website showcases my skills, projects, background, and contact information 
 * HTML5
 * CSS3
 * JavaScript
-* Git
-* GitHub
+
 
 ## 📁 Project Structure
 
