@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website.
 
-This website showcases my skills, projects, background, and contact information as a Grade 11 Computer Science student and aspiring software engineer.
+This website showcases my skills, projects, background, and contact information as a aspiring software engineer.
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ portfolio/
 
 ## 👨‍💻 About Me
 
-I am a Grade 11 Computer Science student from Nepal with an interest in software development, web development, operating systems, and game development.
+I am a student from Nepal with an interest in software development, web development, operating systems, and game development.
 
 I am currently learning and improving my programming and development skills while working on personal projects.
 
