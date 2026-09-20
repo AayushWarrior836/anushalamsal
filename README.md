@@ -35,21 +35,6 @@ portfolio/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/AayushWarrior836/anushalamsal.git
-```
-
-Open the project folder:
-
-```bash
-cd anushalamsal
-```
-
-Then open `index.html` in your web browser.
 
 ## 👨‍💻 About Me
 
