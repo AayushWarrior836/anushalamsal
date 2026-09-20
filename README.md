@@ -1,4 +1,5 @@
-# Aayush Lamsal — Personal Portfolio
+<p align="center"># Aayush Lamsal — Personal Portfolio</p>
+
 
 <p align="center">
   <strong>Personal portfolio website of Aayush Lamsal</strong><br>
