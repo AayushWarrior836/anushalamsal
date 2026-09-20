@@ -1,72 +1,186 @@
 # Aayush Lamsal — Personal Portfolio
 
-Welcome to my personal portfolio website.
+<p align="center">
+  <strong>Personal portfolio website of Aayush Lamsal</strong><br>
+  Grade 11 Computer Science Student · Web Developer · Aspiring Software Engineer
+</p>
 
-This website showcases my skills, projects, background, and contact information as a aspiring software engineer.
+<p align="center">
+  <a href="https://github.com/AayushWarrior836">
+    <img src="https://img.shields.io/badge/GitHub-AayushWarrior836-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+<p align="center">
+  <a href="#-live-demo">Live Demo</a> ·
+  <a href="#-features">Features</a> ·
+  <a href="#-technologies">Technologies</a> ·
+  <a href="#-contact">Contact</a>
+</p>
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Visit the portfolio:**
+**[Open Portfolio Website](https://aayushwarrior836.github.io/anushalamsal/)**
+
+> If GitHub Pages is not enabled yet, replace the link above with your actual deployed website URL.
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home
+
+### 👨‍💻 About & Skills
+
+### 🚀 Projects
+
+> Add your screenshots inside a `screenshots` folder in the repository.
+
+---
 
 ## ✨ Features
 
-* 📱 Fully responsive design
+* 🎨 Modern and clean portfolio design
 * 🌙 Dark and light mode
+* 📱 Fully responsive layout
 * 📂 Mobile navigation menu
-* 🎨 Modern and clean UI
 * ⚡ Lightweight and fast
-* 🔗 Smooth scrolling navigation
+* 🖱️ Smooth scrolling
+* ✨ Hover animations and interactions
 * 💻 Projects showcase
-* 📧 Contact section
-* 🖥️ Works on desktop, tablet, and mobile
-* 🚫 No external frameworks required
+* 📬 Contact section
+* 🖥️ Desktop, tablet, and mobile support
+* 🚫 No external CSS frameworks required
+
+---
 
 ## 🛠️ Technologies
 
-* HTML5
-* CSS3
-* JavaScript
+| Technology | Purpose                          |
+| ---------- | -------------------------------- |
+| HTML5      | Website structure                |
+| CSS3       | Styling and responsive design    |
+| JavaScript | Interactions and theme switching |
+| Git        | Version control                  |
+| GitHub     | Repository and deployment        |
 
+---
 
 ## 📁 Project Structure
 
 ```text
-portfolio/
+anushalamsal/
+│
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+│
+└── screenshots/
+    ├── home.png
+    ├── about.png
+    └── projects.png
 ```
 
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AayushWarrior836/anushalamsal.git
+```
+
+### 2. Open the project
+
+```bash
+cd anushalamsal
+```
+
+### 3. Run the website
+
+Open:
+
+```text
+index.html
+```
+
+in your preferred web browser.
+
+No build tools or dependencies are required.
+
+---
 
 ## 👨‍💻 About Me
 
-I am a student from Nepal with an interest in software development, web development, operating systems, and game development.
+I'm **Aayush Lamsal**, a Grade 11 Computer Science student from Nepal interested in software development, web development, operating systems, and game development.
 
-I am currently learning and improving my programming and development skills while working on personal projects.
+I'm continuously learning new technologies and building projects to improve my programming and development skills.
+
+---
 
 ## 📌 Projects
 
-Some of the projects featured on my portfolio include:
+### 🌐 Personal Portfolio
 
-* Personal Portfolio Website
-* Electron OS
-* Game Development Projects
-* Web Development Projects
+A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
-## 📬 Contact
+### 💻 Electron OS
 
-**GitHub:** [AayushWarrior836](https://github.com/AayushWarrior836)
+A personal operating-system project based on a lightweight Linux environment, focused on creating a customized desktop experience.
 
-You can also find my other contact and freelancing links on my portfolio website.
+### 🎮 Game Development Projects
+
+Experimental and personal game projects created while learning game development and programming.
+
+### 🌍 Web Development Projects
+
+Various websites and web-based projects created to improve my frontend development skills.
+
+---
 
 ## 📱 Responsive Design
 
-The website is designed to work across:
+The portfolio is designed to work across different screen sizes:
 
 * 💻 Desktop
 * 💻 Laptop
 * 📱 Mobile
 * 📟 Tablet
 
+---
+
+## 📊 Project Status
+
+
+\
+
+---
+
+## 📬 Contact
+
+**GitHub:**
+[AayushWarrior836](https://github.com/AayushWarrior836)
+
+For additional contact and freelancing links, visit the portfolio website.
+
+---
+
 ## 📄 License
 
 This project is created for personal and educational purposes.
 
-© 2026 Aayush Lamsal
+© 2026 **Aayush Lamsal**
+
+---
+
+<p align="center">
+  ⭐ If you like this project, consider giving the repository a star!
+</p>
